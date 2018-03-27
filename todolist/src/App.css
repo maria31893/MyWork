@@ -1,0 +1,13 @@
+body{
+  background-color: beige;
+}
+#mainDiv{
+padding: 3% 10% 6% 10%;
+background-color:cadetblue;
+}
+#new-todo{
+  padding-right: 50px;
+}
+#mainDiv button{
+  margin-left: 10px;
+}

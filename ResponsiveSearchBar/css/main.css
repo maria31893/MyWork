@@ -1,0 +1,10 @@
+body{
+    background-color: silver;   
+}
+
+#result{
+   margin: 5% 10% 10% 3%;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: large;
+   font-weight: bold; 
+}
